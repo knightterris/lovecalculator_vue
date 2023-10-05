@@ -1,5 +1,18 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <PersonTwo/>
   </div>
 </template>
+
+<script>
+import PersonTwo from '@/components/PersonTwo.vue';
+  export default {
+    components: {
+      PersonTwo,
+    },
+  }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
