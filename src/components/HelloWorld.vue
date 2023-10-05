@@ -96,7 +96,7 @@
             <v-radio-group v-model="selectedOption5">
               <v-radio label="No." value="0"></v-radio>
               <v-radio label="Know online but not irl." value="1"></v-radio>
-              <v-radio label="One of us has seen me/him." value="2"></v-radio>
+              <v-radio label="One of us has seen me/him/her." value="2"></v-radio>
               <v-radio label="Yes" value="3"></v-radio>
               <v-radio label="Above 4 times(just two of you :3)" value="4"></v-radio>
             </v-radio-group>
